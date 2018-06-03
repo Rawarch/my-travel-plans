@@ -40,6 +40,13 @@ body {
     text-align: center;
 }
 
+h1 {
+    margin:0 ; 
+    text-align: center;
+    color: #01579b;
+    font-family: Helvetica,arial , sans-serif;
+}
+
 h2 {
     margin: 0;
     transform: rotate(-45deg);
